@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "What is HTML?",
+      "body": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. \n\nHTML has a lot of use cases, namely:\n\nWeb development. Developers use HTML code to design how a browser displays web page elements, such as text, hyperlinks, and media files. \nInternet navigation. Users can easily navigate and insert links between related pages and websites as HTML is heavily used to embed hyperlinks. \nWeb documentation. HTML makes it possible to organize and format documents, similarly to Microsoft Word.\nIt’s also worth noting that HTML is not considered a programming language as it can’t create dynamic functionality. It is now considered an official web standard. The World Wide Web Consortium (W3C) maintains and develops HTML specifications, along with providing regular updates. \n\nThis article will go over the basics of HTML, including how it works, its pros and cons, and how it relates to CSS and JavaScript. ",
+      "author": "Maciek",
+      "id": 3
+    },
+    {
+      "title": "What Is CSS and How Does It Work?",
+      "body": "CSS was developed by W3C (World Wide Web Consortium) in 1996 for a rather simple reason. HTML element was not designed to have tags that would help format the page. You were only supposed to write the markup for the web page.\n\nTags like <font> were introduced in HTML version 3.2, and it caused quite a lot of trouble for web developers. Due to the fact that web pages have different fonts, colored backgrounds, and multiple styles, it was a long, painful, and expensive process to rewrite the code. Thus, CSS was created by W3C to solve this problem.\n\nCSS is not technically a necessity, but you probably wouldn’t want to look at a web page that features only HTML elements as it would look completely bare-boned.",
+      "author": "Maciek",
+      "id": 4
+    },
+    {
+      "title": "What Is GitHub? What It Is and How to Use It",
+      "body": "In short, GitHub is a cloud-based service that hosts a version control system (VCS) called Git. It allows developers to collaborate and make changes to shared projects while keeping detailed track of their progress.",
+      "author": "Maciek",
+      "id": 5
+    }
+  ]
+}
